@@ -58,10 +58,3 @@ make test
 
 ## License
 MIT
-
-[npm-url]: https://npmjs.org/package/gulp-img-base64
-[npm-image]: http://img.shields.io/npm/v/gulp-img-base64.svg?style=flat-square
-[travis-url]: https://travis-ci.org/whxaxes/gulp-img-base64
-[travis-image]: http://img.shields.io/travis/whxaxes/gulp-img-base64.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/whxaxes/gulp-img-base64
-[coveralls-image]: https://img.shields.io/coveralls/whxaxes/gulp-img-base64.svg?style=flat-square
