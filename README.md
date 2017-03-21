@@ -1,9 +1,5 @@
 # gulp-img-base64
 
-[![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Coverage Status][coveralls-image]][coveralls-url]
-
 A simple gulp plugin, used to transform image into base64 string.
 
 ## Install
